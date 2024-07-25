@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Gown Design and Consultation Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Custom Gown Design and Consultation Services</h1>
+
+    <h2>Scope of Services</h2>
+    <ul>
+        <li>
+            <strong>Consultation and Design:</strong>
+            <ul>
+                <li>Determine your preferred style and budget for your custom gown.</li>
+                <li>Schedule a consultation to discuss your vision with our designer, Mimi.</li>
+                <li>Optional $30 sketch design (non-refundable).</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Design Concept and Approval:</strong>
+            <ul>
+                <li>Attend a Zoom consultation to finalize your design details.</li>
+                <li>Receive a final sketch of your gown for approval (optional, $30 fee).</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Fabric Selection:</strong>
+            <ul>
+                <li>Receive curated fabric options tailored to your style and budget.</li>
+                <li>Select your fabrics and make a deposit (50% of total cost) within two weeks.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Fabric Procurement and Payment:</strong>
+            <ul>
+                <li>Fabric delivery typically takes 2-3 weeks.</li>
+                <li>Receive images and videos of fabrics upon arrival.</li>
+                <li>Make a 50% down payment before fabric purchase (non-refundable).</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Fittings and Adjustments:</strong>
+            <ul>
+                <li>Schedule first and second fittings (4-6 weeks apart).</li>
+                <li>Discuss any changes or additions during fittings.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Payment Schedule:</strong>
+            <ul>
+                <li>Pay 50% of remaining balance at the last fitting.</li>
+                <li>Final balance due one week before pick-up or at pick-up.</li>
+                <li>Optional: Make payments throughout the process.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Appointment Timeliness:</strong>
+            <ul>
+                <li>Be punctual for appointments (late fees apply).</li>
+                <li>Receive notification of any appointment changes (one week's notice).</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Delivery:</strong>
+            <ul>
+                <li>Receive free shipping on your custom-made gown.</li>
+                <li>Gown will be carefully packaged and delivered to your specified location (delivery fee paid separately).</li>
+                <li>Pick-up options available.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Consultation Fee</h2>
+    <ul>
+        <li>A $50 deposit is required to book a consultation.</li>
+        <li>Please note that the deposit is non-refundable.</li>
+        <li>If you decide to move forward with our services, the $50 deposit will be applied towards your total payment.</li>
+    </ul>
+
+    <h2>Booking and Payment Information</h2>
+    <ul>
+        <li><strong>Bookings:</strong> Consultations can be scheduled via email at mimidesignss4@gmail.com.</li>
+        <li><strong>Payments:</strong> Payments are to be made via Zelle to +1 (347) 259-3352.</li>
+    </ul>
+
+    <h2>Contact Information</h2>
+    <ul>
+        <li><strong>Email:</strong> mimidesignss4@gmail.com</li>
+        <li><strong>Zelle:</strong> +1 (347) 259-3352</li>
+    </ul>
+
+    <h2>Payment Terms</h2>
+    <p>The Client agrees to pay the Consultant according to the payment schedule detailed above. Payments are due within [number] days of receiving an invoice.</p>
+
+    <h2>Confidentiality</h2>
+    <p>Both parties agree to maintain confidentiality regarding all information disclosed during the term of this Agreement.</p>
+
+    <h2>Termination</h2>
+    <p>This Agreement may be terminated by either party with [number] days' written notice. Any outstanding fees for services rendered up to the termination date must be paid.</p>
+</body>
+</html>
